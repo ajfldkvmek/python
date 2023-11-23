@@ -1,3 +1,7 @@
-print("vscode github 연동 테스트")
-
-#vs코드와 github계정을 연동시켜보았음
+#vs코드 github연동 테스트
+#
+#
+#
+#
+listTest = [1,2,3,4,5]
+print(listTest);
